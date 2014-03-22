@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/space/testing/run/scripts/kwconan/fixeddefects/test_data/testPR_18436/rev0'
+let g:netrw_dirhist_2='/space/testing/run/scripts/kwconan/fixeddefects/test_data/testPR_18436/rev1'
+let g:netrw_dirhist_3='/home/smeng/.vim'
